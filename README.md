@@ -69,6 +69,8 @@ Created **4 dashboard pages** with slicers for **Country, Gender, Category, and 
 - Treemap: Customers joining by day (Wed highest).  
 
 ![Customer Analysis]
+<img width="1378" height="806" alt="image" src="https://github.com/user-attachments/assets/32625328-9ed1-467f-87f8-f70bf5878da5" />
+
 
 ---
 
@@ -86,6 +88,8 @@ Created **4 dashboard pages** with slicers for **Country, Gender, Category, and 
 - Treemap: Orders by Category & Subcategory.  
 
 ![Product Analysis]
+<img width="1373" height="807" alt="image" src="https://github.com/user-attachments/assets/2295720a-f2be-4218-8c57-3a075a4038c5" />
+
 ---
 
 ### 📌 Store Performance
@@ -102,6 +106,8 @@ Created **4 dashboard pages** with slicers for **Country, Gender, Category, and 
 - Matrix: Store-wise Orders, Revenue, Profit, Quantity, Profit Sparkline.  
 
 ![Store Performance]
+<img width="1374" height="805" alt="image" src="https://github.com/user-attachments/assets/24da5c76-61b4-4d53-8892-24ecdbfed68f" />
+
 
 ---
 
