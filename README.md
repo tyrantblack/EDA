@@ -49,6 +49,7 @@ Created **4 dashboard pages** with slicers for **Country, Gender, Category, and 
 - Donut chart: Revenue by Payment Method (Credit Card ~25.68%).  
 
 ![Sales Overview]
+<img width="1378" height="803" alt="image" src="https://github.com/user-attachments/assets/9fb4c521-63b9-471e-9ed2-e96cb3880e91" />
 
 ---
 
